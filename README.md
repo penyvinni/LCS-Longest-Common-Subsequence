@@ -12,3 +12,7 @@ The solution of the maximum common subsequence problem, among others, has applic
 Τα χαρακτηριστικά του υπολογιστή είναι Intel Core i7-1065G7 (1.30GHz - 1.50 GHz), 8 GB DDR3 (2667 MHz), λειτουργικό σύστημα Windows 10 Home x64. 
 Τέλος, οδηγίες για την εκτέλση του κώδικα: python main.py και για την εκτέλεση των tests : python tests.py
 
+![table](https://github.com/user-attachments/assets/cb1a55d4-d7e8-4e30-b3fc-87e3d802527e)
+
+
+![results](https://github.com/user-attachments/assets/79aefb15-9729-419f-9a55-2f0464d4f2a3)
